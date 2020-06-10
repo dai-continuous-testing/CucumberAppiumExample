@@ -1,0 +1,15 @@
+{
+  "name": "cucumberappiumexample",
+  "version": "1.0.0",
+  "description": "cucumberappiumexample",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "4.0.0-alpha.7",
+    "cucumber": "6.0.5",
+    "chai": "4.2.0",
+    "assert": "2.0.0"
+  },
+  "scripts": {},
+  "author": "cucumberappiumexample",
+  "license": "ISC"
+}
